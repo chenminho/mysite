@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Rex pic](IOS の画像.jpg)
+![Rex pic](iOS の画像.jpg)
 
 # Minho
 
