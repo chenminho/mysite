@@ -12,7 +12,10 @@ A Student In Japan
 
 ### about
 
-A person who learning IT in Japna and want to stay long time in Japan. 
+I'm from Taiwan. Now studying IT in Tokyo. 
+The person who dream to built a house in Japan. 
+Don't hesitate just do it!
+Thank you for visiting my page.
 
 ### Links
 
